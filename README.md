@@ -1,3 +1,3 @@
 # geofreymiguel-godoy
-![MON.png](https://github.com/[username]/[reponame]/blob/[branch]/MON.png?raw=true)
+<img src="/repository/assets/employee.png" alt="Employee data" title="Employee Data title">
 v
